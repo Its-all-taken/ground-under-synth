@@ -1,0 +1,14 @@
+{
+  "entrypoints": {
+    "prototype_1": {
+      "js": [
+        "/packs/js/prototype_1-93d20fabff66ca01f018.js"
+      ],
+      "js.map": [
+        "/packs/js/prototype_1-93d20fabff66ca01f018.js.map"
+      ]
+    }
+  },
+  "prototype_1.js": "/packs/js/prototype_1-93d20fabff66ca01f018.js",
+  "prototype_1.js.map": "/packs/js/prototype_1-93d20fabff66ca01f018.js.map"
+}
